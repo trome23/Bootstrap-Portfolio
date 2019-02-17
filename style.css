@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(0, 255, 106);
+}
+.container-fluid {
+    
+}
+
+.section-header {
+    color: white;
+}
+
+.container {
+    border-style: double;
+}
+
+footer {
+    color: white;
+    border-color: black;
+}
+.contact-header {
+    border-block-end-style: double;
+    
+}
+.port-header {
+    border-block-end-style: double;
+    
+}
+.bg1 {
+    background-color: white;
+}
+
+
