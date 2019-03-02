@@ -38,6 +38,7 @@ body {
 }
 
 .container {
+    position: relative;
     border-style: double;
 }
 
@@ -60,10 +61,56 @@ footer {
     font-family: 'Russo One', sans-serif;
 }
 
-.mypic {
-    max-width: 100%;
-    height: auto;
+.img-thumbnail {
+    width: 100%;
+    height: 100%;
 }
+
+.word-guess-pic {
+    position: absolute;
+    padding: 5px 5px 0px 5px;
+    margin: 150px 0px 0px 110px;
+    background-color: black;
+    color:  rgb(0, 255, 106);
+    font-family: 'Russo One', sans-serif;
+}
+
+.rpg-game-pic {
+    position: absolute;
+    padding: 5px 5px 0px 5px;
+    margin: 150px 0px 0px 520px;
+    background-color: black;
+    color:  rgb(0, 255, 106);
+    font-family: 'Russo One', sans-serif;
+}
+
+.rock-paper-scissor {
+    position: absolute;
+    padding: 5px 5px 0px 5px;
+    margin: 150px 0px 0px 855px;
+    background-color: black;
+    color:  rgb(0, 255, 106);
+    font-family: 'Russo One', sans-serif;
+}
+
+.trivia-game {
+    position: absolute;
+    padding: 5px 5px 0px 5px;
+    margin: 150px 0px 0px 135px;
+    background-color: black;
+    color:  rgb(0, 255, 106);
+    font-family: 'Russo One', sans-serif;
+}
+
+.info-widget {
+    position: absolute;
+    padding: 5px 5px 0px 5px;
+    margin: 150px 0px 0px 510px;
+    background-color: black;
+    color:  rgb(0, 255, 106);
+    font-family: 'Russo One', sans-serif;
+}
+
 
 @media screen and (max width: 989px)   {
 
