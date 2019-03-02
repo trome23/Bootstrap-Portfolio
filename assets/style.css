@@ -8,6 +8,17 @@ body {
 
 #main-paragraph {
     font-size: 30px;
+    
+}
+
+#second-row-port {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#first-row-port {
+    padding-top: 20px;
+    text-align: center;
 }
 
 .section-header {
