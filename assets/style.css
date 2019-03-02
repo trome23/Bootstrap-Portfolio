@@ -7,8 +7,16 @@ body {
 }
 
 #main-paragraph {
-    font-size: 30px;
-    
+    font-size: 2.1vw;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Russo One', sans-serif;
 }
 
 #second-row-port {
@@ -22,9 +30,11 @@ body {
 }
 
 .section-header {
+    border-block-end-style: double;
     color: white;
     text-align: center;
-    text-decoration: underline;
+    font-family: 'Russo One', sans-serif;
+
 }
 
 .container {
@@ -37,58 +47,41 @@ footer {
 }
 .contact-header {
     border-block-end-style: double;
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: white;
+    font-family: 'Russo One', sans-serif;
     
 }
 .port-header {
     border-block-end-style: double;
-    
-}
-.bg1 {
-    background-color: white;
+    text-align: center;
+    color: white;
+    font-family: 'Russo One', sans-serif;
 }
 
-@media screen and (max width: 989px)   {}
-@media screen and (max width: 768px)   {}
+.mypic {
+    max-width: 100%;
+    height: auto;
+}
+
+@media screen and (max width: 989px)   {
+
+}
+@media screen and (max width: 768px)   {
+    .mypic {
+        width: 100%;
+        height: 100%;
+    }
+
+}
 @media screen and (max width: 640px)   {
-    * {
-        box-sizing:border-box;
+ 
+    .mypic {
+        width: 100%;
+        height: 100%;
     }
-    
-    body {
-        background-color: rgb(0, 255, 106);
-    }
-
-    .header {
-        position: static;
-    }
-
-    .container-fluid {
-        
-    }
-    
-    .section-header {
-        color: white;
-      
-    }
-    
-    .container {
-        border-style: double;
-    }
-    
-    footer {
-        color: white;
-        border-color: black;
-    }
-    .contact-header {
-        border-block-end-style: double;
-       
-        
-    }
-    .port-header {
-        border-block-end-style: double;
-        
-    }
-    .bg1 {
-        background-color: white;
+    #main-paragraph {
+        font-size: 15px;
     }
 }
