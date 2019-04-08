@@ -100,7 +100,7 @@ footer {
 .giphy {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 500px;
+    margin: 150px 0px 0px 512px;
     background-color: black;
     color:  rgb(0, 255, 106);
     font-family: 'Russo One', sans-serif;
@@ -109,13 +109,173 @@ footer {
 
 
 
-@media screen and (max width: 989px)   {
+@media only screen and (max-width: 1200px)   {
+    .word-guess {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 80px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .ccg-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 375px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .psychic-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 740px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .trivia-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 110px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .giphy {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 422px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+}
+@media only screen and (max-width: 991px)   {
+    .word-guess {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 90px 0px 0px 40px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .ccg-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 90px 0px 0px 258px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .psychic-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 90px 0px 0px 540px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .trivia-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 90px 0px 0px 70px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .giphy {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 90px 0px 0px 300px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+}
+@media only screen and (max-width: 767px)   {
+    .word-guess {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 190px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .ccg-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 375px 0px 0px 170px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .psychic-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 610px 0px 0px 210px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .trivia-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 220px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .giphy {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 370px 0px 0px 215px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
 
 }
-@media screen and (max width: 768px)   {
-    
-}
-@media screen and (max width: 640px)   {
- 
+@media only screen and (max-width: 485px)   {
+    .word-guess {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 155px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .ccg-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 375px 0px 0px 130px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .psychic-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 610px 0px 0px 170px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .trivia-game {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 175px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .giphy {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 370px 0px 0px 175px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
 
 }
