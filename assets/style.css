@@ -40,6 +40,7 @@ body {
 .container {
     position: relative;
     border-style: double;
+    clear: both;
 }
 
 footer {
@@ -121,6 +122,10 @@ footer {
     background-color:  white;
     margin-bottom: 15px;
     border-color: black;
+}
+
+.img-fluid {
+    margin: 20px 0px 20px;
 }
 
 @media only screen and (max-width: 1200px)   {
@@ -254,7 +259,7 @@ footer {
     .word-guess {
         position: absolute;
         padding: 5px 5px 0px 5px;
-        margin: 150px 0px 0px 155px;
+        margin: 170px 0px 0px 155px;
         background-color: black;
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
@@ -262,7 +267,7 @@ footer {
     .ccg-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
-        margin: 375px 0px 0px 130px;
+        margin: 430px 0px 0px 130px;
         background-color: black;
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
@@ -270,7 +275,7 @@ footer {
     .psychic-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
-        margin: 610px 0px 0px 170px;
+        margin: 710px 0px 0px 170px;
         background-color: black;
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
@@ -278,7 +283,7 @@ footer {
     .trivia-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
-        margin: 150px 0px 0px 175px;
+        margin: 170px 0px 0px 175px;
         background-color: black;
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
@@ -286,7 +291,7 @@ footer {
     .giphy {
         position: absolute;
         padding: 5px 5px 0px 5px;
-        margin: 370px 0px 0px 175px;
+        margin: 440px 0px 0px 175px;
         background-color: black;
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
