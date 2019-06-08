@@ -107,6 +107,15 @@ footer {
     font-family: 'Russo One', sans-serif;
 }
 
+.liri {
+    position: absolute;
+    padding: 5px 5px 0px 5px;
+    margin: 150px 0px 0px 890px;
+    background-color: black;
+    color:  rgb(0, 255, 106);
+    font-family: 'Russo One', sans-serif;
+}
+
 #githubImg {
     margin-top: 5px;
 }
@@ -169,6 +178,15 @@ footer {
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
     }
+
+    .liri {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 150px 0px 0px 740px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
 }
 @media only screen and (max-width: 991px)   {
     .word-guess {
@@ -207,6 +225,14 @@ footer {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 90px 0px 0px 300px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .liri {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 90px 0px 0px 535px;
         background-color: black;
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
@@ -253,6 +279,14 @@ footer {
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
     }
+    .liri {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 700px 0px 0px 210px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
 
 }
 @media only screen and (max-width: 485px)   {
@@ -292,6 +326,14 @@ footer {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 440px 0px 0px 175px;
+        background-color: black;
+        color:  rgb(0, 255, 106);
+        font-family: 'Russo One', sans-serif;
+    }
+    .liri {
+        position: absolute;
+        padding: 5px 5px 0px 5px;
+        margin: 700px 0px 0px 175px;
         background-color: black;
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
