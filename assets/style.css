@@ -7,7 +7,7 @@ body {
 }
 
 #main-paragraph {
-    font-size: 2.1vw;
+    font-size: 1.5vw;
 }
 
 .navbar-brand {
@@ -239,6 +239,9 @@ footer {
     }
 }
 @media only screen and (max-width: 767px)   {
+    #main-paragraph {
+        font-size: 1.9vw;
+    }
     .word-guess {
         position: absolute;
         padding: 5px 5px 0px 5px;
@@ -289,7 +292,10 @@ footer {
     }
 
 }
-@media only screen and (max-width: 485px)   {
+@media only screen and (max-width: 582px)   {
+    #main-paragraph {
+        font-size: 2.5vw;
+    }
     .word-guess {
         position: absolute;
         padding: 5px 5px 0px 5px;
