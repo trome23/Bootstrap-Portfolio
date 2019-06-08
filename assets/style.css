@@ -107,10 +107,10 @@ footer {
     font-family: 'Russo One', sans-serif;
 }
 
-.liri {
+.basher {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 890px;
+    margin: 150px 0px 0px 910px;
     background-color: black;
     color:  rgb(0, 255, 106);
     font-family: 'Russo One', sans-serif;
@@ -179,7 +179,7 @@ footer {
         font-family: 'Russo One', sans-serif;
     }
 
-    .liri {
+    .basher {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 150px 0px 0px 740px;
@@ -229,10 +229,10 @@ footer {
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
     }
-    .liri {
+    .basher {
         position: absolute;
         padding: 5px 5px 0px 5px;
-        margin: 90px 0px 0px 535px;
+        margin: 90px 0px 0px 560px;
         background-color: black;
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
@@ -279,7 +279,7 @@ footer {
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
     }
-    .liri {
+    .basher {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 700px 0px 0px 210px;
@@ -330,7 +330,7 @@ footer {
         color:  rgb(0, 255, 106);
         font-family: 'Russo One', sans-serif;
     }
-    .liri {
+    .basher {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 700px 0px 0px 175px;
