@@ -21,7 +21,6 @@ body {
 }
 
 #second-row-port {
-    padding-bottom: 20px;
     text-align: center;
 }
 
@@ -88,10 +87,18 @@ footer {
     font-family: 'Lexend Zetta', sans-serif;
 }
 
+.clickster {
+    position: absolute;
+    padding: 5px 5px 0px 5px;
+    margin: 150px 0px 0px 70px;
+    background-color: black;
+    color:  rgb(35, 121, 136);
+    font-family: 'Lexend Zetta', sans-serif;
+}
 .ccg-game {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 411px;
+    margin: 150px 0px 0px 398px;
     background-color: black;
     color:  rgb(228, 221, 205);
     font-family: 'Lexend Zetta', sans-serif;
