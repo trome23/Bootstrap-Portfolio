@@ -3,20 +3,21 @@
 }
 
 body {
-    background-color: rgb(0, 255, 106);
+    background-color: rgb(35, 121, 136);
 }
 
 #main-paragraph {
     font-size: 1.5vw;
+    color:rgb(228, 221, 205);
 }
 
 .navbar-brand {
     font-size: 40px;
-    font-family: 'Russo One', sans-serif;
+    font-family: 'Lexend Zetta', sans-serif;
 }
 
 .nav-link {
-    font-family: 'Russo One', sans-serif;
+    font-family: 'Lexend Zetta', sans-serif;
 }
 
 #second-row-port {
@@ -29,11 +30,25 @@ body {
     text-align: center;
 }
 
+.img-thumbnail {
+    padding: .1rem;
+    background-color: rgb(228, 221, 205);
+    border: 1px double rgb(228, 221, 205);
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+.name {
+    color: black;
+    font-family: 'Lexend Exa', sans-serif;
+}
+
 .section-header {
     border-block-end-style: double;
-    color: white;
+    color: rgb(228, 221, 205);
     text-align: center;
-    font-family: 'Russo One', sans-serif;
+    font-family: 'Lexend Zetta', sans-serif;
 
 }
 
@@ -44,76 +59,77 @@ body {
 }
 
 footer {
-    color: white;
+    color: rgb(228, 221, 205);
     border-color: black;
 }
 .contact-header {
     border-block-end-style: double;
-    font-family: 'Russo One', sans-serif;
+    font-family: 'Lexend Zetta', sans-serif;
     text-align: center;
-    color: white;
-    font-family: 'Russo One', sans-serif;
+    color: rgb(228, 221, 205);
+    font-family: 'Lexend Zetta', sans-serif;
     
 }
 .port-header {
     border-block-end-style: double;
+    font-family: 'Lexend Zetta', sans-serif;
     text-align: center;
-    color: white;
-    font-family: 'Russo One', sans-serif;
+    color: rgb(228, 221, 205);
+    font-family: 'Lexend Zetta', sans-serif;
+    
 }
-
 
 .word-guess {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 110px;
+    margin: 150px 0px 0px 75px;
     background-color: black;
-    color:  rgb(0, 255, 106);
-    font-family: 'Russo One', sans-serif;
+    color:  rgb(228, 221, 205);
+    font-family: 'Lexend Zetta', sans-serif;
 }
 
 .ccg-game {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 468px;
+    margin: 150px 0px 0px 411px;
     background-color: black;
-    color:  rgb(0, 255, 106);
-    font-family: 'Russo One', sans-serif;
+    color:  rgb(228, 221, 205);
+    font-family: 'Lexend Zetta', sans-serif;
 }
 
 .trivia-game {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 135px;
+    margin: 150px 0px 0px 105px;
     background-color: black;
-    color:  rgb(0, 255, 106);
-    font-family: 'Russo One', sans-serif;
+    color:  rgb(35, 121, 136);
+    font-family: 'Lexend Zetta', sans-serif;
 }
 
 .psychic-game {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 900px;
+    margin: 150px 0px 0px 850px;
     background-color: black;
-    color:  rgb(0, 255, 106);
-    font-family: 'Russo One', sans-serif;
+    color:  rgb(35, 121, 136);
+    font-family: 'Lexend Zetta', sans-serif;
 }
 .giphy {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 512px;
+    margin: 150px 0px 0px 485px;
     background-color: black;
-    color:  rgb(0, 255, 106);
-    font-family: 'Russo One', sans-serif;
+    color:  rgb(35, 121, 136);
+    font-family: 'Lexend Zetta', sans-serif;
 }
 
 .basher {
     position: absolute;
     padding: 5px 5px 0px 5px;
-    margin: 150px 0px 0px 910px;
+    margin: 150px 0px 0px 898px;
     background-color: black;
-    color:  rgb(0, 255, 106);
-    font-family: 'Russo One', sans-serif;
+    color:  rgb(35, 121, 136);
+    font-family: 'Lexend Zetta', sans-serif;
 }
 
 #githubImg {
@@ -124,11 +140,12 @@ footer {
     font-size: 15px;
     border-style: solid;
     text-align: center;
+    color: black;
 }
 
 #contactBtn {
-    color: black;
-    background-color:  white;
+    color:  rgb(228, 221, 205);
+    background-color:  rgb(228, 221, 205);
     margin-bottom: 15px;
     border-color: black;
 }
@@ -143,40 +160,40 @@ footer {
         padding: 5px 5px 0px 5px;
         margin: 150px 0px 0px 80px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .ccg-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 150px 0px 0px 375px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .psychic-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 150px 0px 0px 740px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .trivia-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 150px 0px 0px 110px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .giphy {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 150px 0px 0px 422px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
 
     .basher {
@@ -184,8 +201,8 @@ footer {
         padding: 5px 5px 0px 5px;
         margin: 150px 0px 0px 740px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
 }
 @media only screen and (max-width: 991px)   {
@@ -194,48 +211,48 @@ footer {
         padding: 5px 5px 0px 5px;
         margin: 90px 0px 0px 40px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .ccg-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 90px 0px 0px 258px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .psychic-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 90px 0px 0px 540px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .trivia-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 90px 0px 0px 70px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .giphy {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 90px 0px 0px 300px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .basher {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 90px 0px 0px 560px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
 }
 @media only screen and (max-width: 767px)   {
@@ -247,48 +264,48 @@ footer {
         padding: 5px 5px 0px 5px;
         margin: 170px 0px 0px 190px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .ccg-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 440px 0px 0px 170px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .psychic-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 680px 0px 0px 210px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .trivia-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 170px 0px 0px 220px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .giphy {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 430px 0px 0px 215px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .basher {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 700px 0px 0px 210px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
 
 }
@@ -301,48 +318,48 @@ footer {
         padding: 5px 5px 0px 5px;
         margin: 170px 0px 0px 155px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .ccg-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 430px 0px 0px 130px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .psychic-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 710px 0px 0px 170px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .trivia-game {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 170px 0px 0px 175px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .giphy {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 440px 0px 0px 175px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
     .basher {
         position: absolute;
         padding: 5px 5px 0px 5px;
         margin: 700px 0px 0px 175px;
         background-color: black;
-        color:  rgb(0, 255, 106);
-        font-family: 'Russo One', sans-serif;
+        color:  rgb(35, 121, 136);
+        font-family: 'Lexend Zetta', sans-serif;
     }
 
 }
